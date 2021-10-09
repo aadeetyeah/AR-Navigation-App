@@ -7,9 +7,14 @@ us to our destination in a user friendly way.
 Tech used:
 
 C#
+
 Unity3D
+
 Google ARCore
+
 Bing Maps API
+
 REST API
+
 NewtonSoft JSON
 
